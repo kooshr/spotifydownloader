@@ -15,3 +15,5 @@ to install customtkinter, run
 ```
 pip install customtkinter
 ```
+
+When Running the application, it does take some time to load for larger playlists to be patient =)
